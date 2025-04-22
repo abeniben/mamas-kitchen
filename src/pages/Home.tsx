@@ -75,7 +75,7 @@ const Home: React.FC = () => {
             {[
               {
                 title: 'Ethiopian Cuisine',
-                image: 'https://images.unsplash.com/photo-1580793241553-e9f1cce181af?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+                image: 'https://res.cloudinary.com/dzbepyf6i/image/upload/v1745340443/ChatGPT_Image_Apr_22_2025_07_36_57_PM_djkwyq.png',
               },
               {
                 title: 'European & International',
